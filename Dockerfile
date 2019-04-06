@@ -1,4 +1,4 @@
-FROM nginx
+FROM daocloud.io/nginx
 
 LABEL maintainer "834033206@qq.com"
 
